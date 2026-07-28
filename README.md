@@ -12,6 +12,7 @@ This project is an interactive Tableau dashboard built using the Superstore data
 
 ## 🛠 Tools Used
 - Tableau
+- Excel
 
 ## 📈 Dashboard Highlights
 - Sales KPI
